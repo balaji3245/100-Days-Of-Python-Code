@@ -19,3 +19,18 @@ Today I prepared my development environment to ensure a smooth 100-day journey.
 # My first Python script
 print("Hello World!")
 print("Day 1 of 100 completed.")
+
+
+# Day 2 – 100 Days of Python 🐍
+
+## Topics Covered
+- Variables
+- Data Types
+- Type Casting
+- type()
+- input()
+
+## Practice
+Simple program to take user input (name, age, height) and display values with their data types.
+
+🚀 Learning Python step by step.
