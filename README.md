@@ -14,12 +14,6 @@ Today I prepared my development environment to ensure a smooth 100-day journey.
 - [x] **Python Extension**: Installed the Microsoft Python extension for VS Code.
 - [x] **First Script**: Created `DAY_1.py` and ran my first line of code.
 
-## 💻 Code Snippet
-```python
-# My first Python script
-print("Hello World!")
-print("Day 1 of 100 completed.")
-
 
 # Day 2 – 100 Days of Python 🐍
 
@@ -34,3 +28,20 @@ print("Day 1 of 100 completed.")
 Simple program to take user input (name, age, height) and display values with their data types.
 
 🚀 Learning Python step by step.
+
+
+# Day 4 – 100 Days of Python 🐍
+# 🏧 ATM Withdrawal Program (Python)
+
+A simple Python program that simulates an ATM withdrawal system using `if` and `else`.
+
+## Features
+- Checks ATM balance
+- Verifies user PIN
+- Handles insufficient balance and wrong PIN
+
+## Concepts Used
+- Conditional statements (`if`, `else`)
+- User input
+- Type casting
+
