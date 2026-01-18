@@ -11,7 +11,7 @@
 
 
 # An ATM 
-atm_balance = 50000    # available balance of ATM
+bank_balance = 50000    # available balance of ATM
 
 pin=1234    # pin of card
 
@@ -21,7 +21,7 @@ person = float(input("Enter the Amount you want to Withdraw : "))    # A person 
 
 
 
-if atm_balance >= person :
+if bank_balance >= person :
     pin_card = float(input(" Enter your card PIN : "))
 
     if pin_card == pin :
@@ -35,6 +35,7 @@ else:
 
 
  
+
 
 
 
